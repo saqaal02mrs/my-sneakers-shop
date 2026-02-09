@@ -310,8 +310,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Contact
 
 For questions or support, reach out to:
-- **Email**: info@miras-sneakers.kz
-- **Phone**: +7 (777) 123-45-67
+- **Email**: miras.saylauuly24@fizmat.kz
+- **Phone**: +7 (707) 231 12 36
 - **Address**: Алматы, Казахстан
 
 ---
