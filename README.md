@@ -176,7 +176,7 @@ Persistent JSON database storing:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/w4xxwrld/react-sneakers.git
+git clone https://github.com/saqaal02mrs/react-sneakers.git
 cd react-sneakers
 ```
 
