@@ -1,4 +1,4 @@
-# Miras Sneakers
+# ASMI Sneakers
 
 A modern e-commerce web application for browsing and purchasing premium sneakers, featuring a full-stack architecture with React frontend and FastAPI backend.
 
