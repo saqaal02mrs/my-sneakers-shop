@@ -312,7 +312,7 @@ This project is open source and available under the [MIT License](LICENSE).
 For questions or support, reach out to:
 - **Email**: miras.saylauuly24@fizmat.kz
 - **Phone**: +7 (707) 231 12 36
-- **Address**: Алматы, Казахстан
+- **Address**: Алматы, ул. Аль-Фараби 77/7
 
 ---
 
